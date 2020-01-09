@@ -1,0 +1,91 @@
+<*project
+      version = 4 civer = "Free v4.14.3" winver = "2.8/6.0.6001" > 
+   <output> C:\Trabalhos\Texas\NF\ver</>
+   <exename> Texas100.exe</>
+   <digitsign> </>
+   <appname> Texas Informática Ltda.</>
+   <password> </>
+   <addlang> </>
+   <icon> Default</>
+   <selfextr> 1</>
+   <voltype> nolimit</>
+   <volsize> </>
+   <volpattern> disk%i.pak</>
+   <load> </>
+   <loadtime> 1000</>
+   <checktype> admin</>
+   <chkname> </>
+   <chkmsg> </>
+   <dlgfont> Verdana,8</>
+   <lang> Portuguese_br</>
+   <theme> Color</>
+   <iface> </>
+   <leftlogo> </>
+   <logo> </>
+   <vb> </>
+   <dao> </>
+   <background> 0</>
+   <dlgwelcome> 1</>
+   <dlgreadme> </>
+   <dlglic> </>
+   <dlgcustpath> </>
+   <dlgenfpath> </>
+   <dlgsavepath> </>
+   <dlgautoprog> 1</>
+   <dlgfinish> 1</>
+   <comptype> defnorm</>
+   <solid> </>
+   <srcfolder> </>
+   <ifexist> overnewer</>
+   <runafter> </>
+   <runconfirm> 0</>
+   <uninclude> 1</>
+   <unicon> Uninstall</>
+   <unshortcut> 1</>
+   <unrun> </>
+   <silent> 0</>
+   <unfeed> </>
+   <unautoclose> 0</>
+   <unfinish> 0</>
+   <bl> </>
+   <blurl> </>
+   <bghead> </>
+   <bgfoot> </> 
+   <bgback> </>
+   <files listview >
+      <_><src>C:\Trabalhos\Texas\NF\ver\080703\Texas100.exe</><dest>inst</><custom></><ifexist>overnewer</><recurs>0</></>
+<_><src>C:\Trabalhos\Texas\NF\ver\080703\Texas100.mdb</><dest>inst</><custom></><ifexist>overnewer</><recurs>0</></>
+<_><src>C:\Trabalhos\Texas\NF\ver\080703\Dados.mdb</><dest>inst</><custom></><ifexist>overnewer</><recurs>0</></>
+
+   </files>
+   <runx listview >
+      
+   </runx>
+   <registry listview >
+      
+   </registry>
+   <shcut listview >
+      <_><shpath>comdesk</><shname>Texas</><tarpath>inst</><tarname>Texas100.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>Texas</><tarpath>inst</><tarname>Texas100.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+
+   </shcut>
+   <ini listview >
+      
+   </ini>
+   <copy listview >
+      
+   </copy>
+   <activex listview >
+      
+   </activex>
+   <font listview >
+      
+   </font>
+   <ext listview >
+      
+   </ext>
+   <mreg listview >
+      
+   </mreg>
+   <macros> </>
+</project>
